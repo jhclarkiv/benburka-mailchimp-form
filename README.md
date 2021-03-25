@@ -1,1 +1,2 @@
-# benburka-mailchimp-form
+# benburka-mailchimp-newsletter-form
+ benburka mailchimp email capture form for newsletter

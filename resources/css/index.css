@@ -1,0 +1,76 @@
+#bb-logo-img {
+  width: 400px;
+  height: auto;
+}
+
+#newsletter-description {
+  color: #f8f8f8;
+  font-size: 16px;
+  font-family: 'OpenSans', sans-serif;
+  padding-right: 250px;
+  line-height: 1.5;
+}
+
+#form-email-field {
+  width: 100%;
+}
+#email-entry-field {
+  float:left;
+  width: 50%;
+}
+#form-submit-button {
+  float:left;
+  width: 50%;
+}
+
+#mc-embedded-subscribe {
+  color: #ffffff;
+  font-family: 'OpenSans', sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  background: #FF5C04;
+  border-radius: 20px;
+  padding: 10px 20px 10px 20px;
+  border-style: none;
+  -webkit-filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.25));
+  filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.25));
+  margin-top: 30px;
+  margin-left: 60px;
+}
+
+#mc_embed_signup {
+  background-color: #1F5FAD;
+  border-radius: 33px;
+  max-width: 800px;
+  height: 400px;
+  padding-top: 60px;
+  padding-left: 60px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+  -webkit-filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.25));
+  filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.25));
+}
+
+#newsletter-heading {
+  font-size: 36px;
+  color: white;
+  font-family: 'OpenSans', sans-serif;
+  letter-spacing: 3px;
+}
+
+#mce-EMAIL {
+  color: white;
+  font-family: 'OpenSans', sans-serif;
+  border-style: none;
+  padding: 10px 10px 10px 10px;
+  font-size: 16px;
+  letter-spacing: 1px;
+  -webkit-filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.25));
+  filter: drop-shadow(5px 5px 5px rgba(0,0,0,0.25));
+  width: 100%;
+  margin-top: 30px;
+
+
+}
